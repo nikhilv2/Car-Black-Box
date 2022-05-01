@@ -18,7 +18,11 @@ As an extension of this idea, the data can be exported continuously to a Cloud b
 
 # Flow Chart
 ![Capture](https://user-images.githubusercontent.com/70807254/166145823-e8be933e-857d-4706-8501-d69aac933385.JPG)
+
 ![Capture](https://user-images.githubusercontent.com/70807254/166145849-1510df07-04d2-42c8-a1dd-8dfb78a47ec9.JPG)
+
 ![Capture](https://user-images.githubusercontent.com/70807254/166145910-a97f2885-6a9e-4091-873c-9cfa16830d7a.png)
+
 ![Capture](https://user-images.githubusercontent.com/70807254/166145966-bd0c46da-f280-463c-8771-4c86b23b452e.JPG)
+
 Note : This is a partial flowchart. Follow this approach to implement the remaining part
