@@ -12,3 +12,13 @@ As an extension of this idea, the data can be exported continuously to a Cloud b
 ![Capture](https://user-images.githubusercontent.com/70807254/166145504-e6d64e60-ef8d-4ed5-b980-11216af83910.JPG)
 ![Capture](https://user-images.githubusercontent.com/70807254/166145521-a568ccf5-fe32-4bc6-84a3-bfab7abeed0e.JPG)
 ![Capture](https://user-images.githubusercontent.com/70807254/166145534-3bd835c6-539a-4a06-a65d-b303adaca49f.JPG)
+
+# Schematics
+![Capture](https://user-images.githubusercontent.com/70807254/166145760-a6678fd5-7312-4a87-aaae-5b4f091fe5ef.JPG)
+
+# Flow Chart
+![Capture](https://user-images.githubusercontent.com/70807254/166145823-e8be933e-857d-4706-8501-d69aac933385.JPG)
+![Capture](https://user-images.githubusercontent.com/70807254/166145849-1510df07-04d2-42c8-a1dd-8dfb78a47ec9.JPG)
+![Capture](https://user-images.githubusercontent.com/70807254/166145910-a97f2885-6a9e-4091-873c-9cfa16830d7a.png)
+![Capture](https://user-images.githubusercontent.com/70807254/166145966-bd0c46da-f280-463c-8771-4c86b23b452e.JPG)
+Note : This is a partial flowchart. Follow this approach to implement the remaining part
