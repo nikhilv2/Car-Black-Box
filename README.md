@@ -26,3 +26,8 @@ As an extension of this idea, the data can be exported continuously to a Cloud b
 ![Capture](https://user-images.githubusercontent.com/70807254/166145966-bd0c46da-f280-463c-8771-4c86b23b452e.JPG)
 
 Note : This is a partial flowchart. Follow this approach to implement the remaining part
+
+# Sample Outputs
+![Screenshot (142)](https://user-images.githubusercontent.com/70807254/166146235-c2518467-d885-4e46-b802-06dd97b67461.png)
+
+![Screenshot (143)](https://user-images.githubusercontent.com/70807254/166146240-679e906f-d7c5-4bc2-aa59-d68a284a34c0.png)
